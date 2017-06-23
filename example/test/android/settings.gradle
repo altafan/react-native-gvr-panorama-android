@@ -1,0 +1,5 @@
+rootProject.name = 'test'
+include ':react-native-gvr-panorama-android'
+project(':react-native-gvr-panorama-android').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-gvr-panorama-android/android')
+
+include ':app'
