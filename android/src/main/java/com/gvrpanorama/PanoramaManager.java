@@ -26,7 +26,11 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by piero on 22/06/17.
+ * PanoramaManager.java
+ *
+ * Created by Pietralberto Mazza on 22/06/17.
+ * Copyright © 2017 Facebook. All rights reserved.
+ *
  */
 
 public class PanoramaManager extends SimpleViewManager<VrPanoramaView> {

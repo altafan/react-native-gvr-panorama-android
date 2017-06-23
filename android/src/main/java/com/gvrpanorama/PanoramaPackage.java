@@ -11,7 +11,11 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by piero on 22/06/17.
+ * PanoramaPackage.java
+ *
+ * Created by Pietralberto Mazza on 22/06/17.
+ * Copyright © 2017 Facebook. All rights reserved.
+ *
  */
 
 public class PanoramaPackage implements ReactPackage {
